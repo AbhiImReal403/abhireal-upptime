@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 186,
-    "timeDay": 134,
-    "timeWeek": 207,
-    "timeMonth": 200,
+    "timeDay": 172,
+    "timeWeek": 189,
+    "timeMonth": 199,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-04-29": 116,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 866,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fin.abhilasha.dev.ico",
     "slug": "abhi-im-real-personal-fin-calc",
     "status": "down",
-    "uptime": "88.27%",
-    "uptimeDay": "88.27%",
-    "uptimeWeek": "88.27%",
-    "uptimeMonth": "88.27%",
-    "uptimeYear": "88.27%",
-    "time": 894,
-    "timeDay": 894,
-    "timeWeek": 894,
-    "timeMonth": 894,
-    "timeYear": 894,
+    "uptime": "35.60%",
+    "uptimeDay": "35.60%",
+    "uptimeWeek": "35.60%",
+    "uptimeMonth": "35.60%",
+    "uptimeYear": "35.60%",
+    "time": 881,
+    "timeDay": 881,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2025-06-03": 30
+      "2025-06-04": 73,
+      "2025-06-03": 330
     }
   }
 ]
