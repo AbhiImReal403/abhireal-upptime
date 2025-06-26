@@ -7,8 +7,9 @@ sites:
     url: https://git.abhireal.com
   - name: AbhiImReal Personal
     url: https://abhilasha.dev/
-  - name: AbhiImReal Personal - Fin Calc
-    url: https://fin.abhilasha.dev/
+  #Fin API 
+  # - name: AbhiImReal Personal - Fin Calc
+  #   url: https://fin.abhilasha.dev/
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
