@@ -37,37 +37,5 @@
     "timeMonth": 871,
     "timeYear": 871,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "AbhiImReal Personal - Fin Calc",
-    "url": "https://fin.abhilasha.dev/",
-    "icon": "https://icons.duckduckgo.com/ip3/fin.abhilasha.dev.ico",
-    "slug": "abhi-im-real-personal-fin-calc",
-    "status": "down",
-    "uptime": "53.18%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.18%",
-    "uptimeYear": "53.18%",
-    "time": 885,
-    "timeDay": 897,
-    "timeWeek": 851,
-    "timeMonth": 885,
-    "timeYear": 885,
-    "dailyMinutesDown": {
-      "2025-06-26": 73,
-      "2025-06-25": 1440,
-      "2025-06-24": 1440,
-      "2025-06-23": 1440,
-      "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 590,
-      "2025-06-04": 1173,
-      "2025-06-03": 330
-    }
   }
 ]
